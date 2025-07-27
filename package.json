@@ -1,0 +1,19 @@
+{
+  "name": "@chavi/ui-components",
+  "version": "1.0.0",
+  "description": "Components for use in any application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chavimiller/ui-components.git"
+  },
+  "author": "Chavi Weisman-Miller <chaviweisman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chavimiller/ui-components/issues"
+  },
+  "homepage": "https://github.com/chavimiller/ui-components#readme"
+}
